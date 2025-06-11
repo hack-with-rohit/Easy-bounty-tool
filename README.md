@@ -42,6 +42,11 @@ No more switching between terminals or remembering long commands. Just enter you
 - 🕵️ Parameter Discovery
 - 💥 Vulnerability Scanning using Nuclei
 
+![image](https://github.com/user-attachments/assets/fc20490d-e908-48f5-b31b-358f1e9dc288)
+
+![image](https://github.com/user-attachments/assets/85f2d31c-150f-46b9-8d1f-063f80695db4)
+
+
 ---
 
 ## 📦 Installation
