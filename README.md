@@ -16,6 +16,20 @@
 - `paramspider`
 - `nuclei`
 
+## Pre-install this tools 
+
+Make sure the following tools are installed separately on your system and are accessible in your $PATH:
+
+- subfinder → https://github.com/projectdiscovery/subfinder
+
+- httpx → https://github.com/projectdiscovery/httpx
+
+- waybackurls → https://github.com/tomnomnom/waybackurls
+
+- paramspider → https://github.com/devanshbatham/paramspider
+
+- nuclei → https://github.com/projectdiscovery/nuclei
+
 No more switching between terminals or remembering long commands. Just enter your domain, output path, and Nuclei templates path – the rest is automated.
 
 ---
