@@ -47,6 +47,6 @@ No more switching between terminals or remembering long commands. Just enter you
 ## 📦 Installation
 
 ```bash
-git clone [https://github.com/yourusername/HackRecon.git](https://github.com/hack-with-rohit/Easy-bounty-tool.git)
+git clone https://github.com/hack-with-rohit/Easy-bounty-tool.git
 cd Easy-bounty-tool
 pip install -r requirements.txt
